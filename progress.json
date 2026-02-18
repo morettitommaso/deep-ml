@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-11-07T17:08:57.870Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-02-18T11:44:44.932Z",
+      "last_pushed_at": "2026-02-18T11:44:44.932Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-02-18T14:22:01.191Z",
+      "last_pushed_at": "2026-02-18T14:22:01.191Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-02-18T14:35:05.711Z",
+      "last_pushed_at": "2026-02-18T14:35:05.711Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-02-18T14:40:42.135Z",
+      "last_pushed_at": "2026-02-18T14:40:42.135Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-02-18T16:22:09.953Z",
+      "last_pushed_at": "2026-02-18T16:22:09.953Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-02-18T16:32:36.845Z",
+      "last_pushed_at": "2026-02-18T16:32:36.845Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-02-18T17:13:28.054Z",
+      "last_pushed_at": "2026-02-18T17:13:28.054Z",
+      "language": "python",
+      "lines": 23
+    }
+  }
+}
