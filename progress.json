@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:11:04.017Z",
+  "generated_at": "2026-11-07T17:11:06.034Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-02-19T09:52:09.720Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-02-23T06:48:10.222Z",
+      "last_pushed_at": "2026-02-23T06:48:10.222Z",
+      "language": "python",
+      "lines": 29
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-02-23T07:49:54.648Z",
+      "last_pushed_at": "2026-02-23T07:49:54.648Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
