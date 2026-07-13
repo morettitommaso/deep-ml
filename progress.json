@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:11:07.774Z",
+  "generated_at": "2026-11-07T17:11:09.559Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,45 @@
       "last_pushed_at": "2026-02-24T09:29:29.420Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-07-13T10:50:45.485Z",
+      "last_pushed_at": "2026-07-13T10:50:45.485Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-07-13T15:13:55.038Z",
+      "last_pushed_at": "2026-07-13T15:13:55.038Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:1130": {
+      "kind": "problem",
+      "id": "1130",
+      "title": "Generate Normal Samples and Compute Histogram Counts",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1130",
+      "path": "problems/1130-generate-normal-samples-and-compute-histogram-counts",
+      "first_solved_at": "2026-07-13T15:40:49.306Z",
+      "last_pushed_at": "2026-07-13T15:40:49.306Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

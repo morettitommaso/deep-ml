@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 9 problems · 2 labs · 0 math
+**14** solved · 12 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-07-13 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-02-18 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-07-13 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-02-18 | [solution](problems/0083-dot-product-calculator) |
+| [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-07-13 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-02-18 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-18 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-02-18 | [solution](problems/0003-reshape-matrix) |
