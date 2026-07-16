@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:11:09.559Z",
+  "generated_at": "2026-11-07T17:11:11.688Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,58 @@
       "last_pushed_at": "2026-07-13T15:40:49.306Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-07-16T15:07:11.381Z",
+      "last_pushed_at": "2026-07-16T15:07:11.381Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-07-16T15:48:24.669Z",
+      "last_pushed_at": "2026-07-16T15:48:24.669Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:350": {
+      "kind": "problem",
+      "id": "350",
+      "title": "Calculate Explained Variance Ratio for PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/350",
+      "path": "problems/0350-calculate-explained-variance-ratio-for-pca",
+      "first_solved_at": "2026-07-16T16:00:53.920Z",
+      "last_pushed_at": "2026-07-16T16:00:53.920Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-07-16T17:09:01.634Z",
+      "last_pushed_at": "2026-07-16T17:09:01.634Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
