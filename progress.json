@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:11:11.688Z",
+  "generated_at": "2026-11-07T17:11:13.526Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,32 @@
       "last_pushed_at": "2026-07-16T17:09:01.634Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:254": {
+      "kind": "problem",
+      "id": "254",
+      "title": "Silhouette Score for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/254",
+      "path": "problems/0254-silhouette-score-for-clustering-evaluation",
+      "first_solved_at": "2026-07-17T12:36:59.220Z",
+      "last_pushed_at": "2026-07-17T12:36:59.220Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-07-17T13:21:30.036Z",
+      "last_pushed_at": "2026-07-17T13:21:30.036Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
